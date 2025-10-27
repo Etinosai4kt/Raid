@@ -31,8 +31,8 @@ from datetime import datetime
 from telethon import TelegramClient, events, functions
 
 # ===================== CONFIG - EDIT THESE =====================
-TG_API_ID = 27403368                # <- REPLACE with your API ID (integer)
-TG_API_HASH = "7cfc7759b82410f5d90641d6a6fc415f"     # <- REPLACE with your API HASH (string)
+TG_API_ID =  25165564            # <- REPLACE with your API ID (integer)
+TG_API_HASH =  b20bca2c6e2b2c42bde005148fdb2bee   # <- REPLACE with your API HASH (string)
 SESSION = "session"               # session file prefix (e.g., "session")
 TG_GROUP_ID = -1002325443922      # <- REPLACE with the group ID you watch (integer)
 RAID_BOT_IDS = [8004181615]       # <- REPLACE with the raid bot's Telegram numeric ID(s)
